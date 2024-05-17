@@ -1,4 +1,4 @@
-// Calculator Problem
+
 
 const display = document.getElementById("display");
 
